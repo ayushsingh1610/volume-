@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-float a,l,b,h,v1,v2
+float a,l,b,h,v1,v2;
 
 printf("Enter the length - ");
 scanf("%f",&l);
